@@ -1,0 +1,5 @@
+{
+  "name": "SQL Master: Data Flow",
+  "description": "A puzzle game about visualizing SQL joins as data streams using abstract particles.",
+  "requestFramePermissions": []
+}
